@@ -1,7 +1,7 @@
 # LorenzAttractor
-Basic lorenz attractor in python
+-- Basic lorenz attractor in python
 
-- How to run in Visual Studio Code:
+How to run in Visual Studio Code:
 1) Open both files in VS Code.
 2) Open the terminal of Vscode.
 3) Type: 
